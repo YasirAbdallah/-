@@ -1,0 +1,5 @@
+package com.btc.paligolshir
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity()
